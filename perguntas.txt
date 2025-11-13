@@ -1,0 +1,18 @@
+1. Qual é o código HTML para criar o título "Meu site" com fonte Arial, tamanho 36px e cor azul (#007bff)?
+<h1 style="font-family: Arial; font-size: 36px; color: #007bff;">Meu site</h1>
+
+2. Qual é o código CSS para estilizar o parágrafo de texto com fonte Arial, tamanho 18px e cor cinza (#666)?
+p {
+  font-family: Arial;
+  font-size: 18px;
+  color: #666;
+}
+
+3. Qual é o código HTML para criar a imagem com largura de 200px e altura de 150px?
+<img src="imagem.jpg" width="200" height="150"
+
+4. Qual é o código CSS para estilizar o link para uma página externa com cor azul (#007bff) e sublinhado?
+a {
+  color: #007bff;
+  text-decoration: underline;
+}
